@@ -25,7 +25,7 @@ defmodule Shooter.Mixfile do
     [
       {:confex, "~> 3.3.0"},
       {:poison, "~> 3.1"},
-      {:amqp, "~> 1.0.0-pre.3"},
+      {:amqp, "~> 1.0.3"},
       {:httpoison, "~> 1.0"}
     ]
   end
